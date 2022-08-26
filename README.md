@@ -23,6 +23,11 @@ PAÍS : Panamá
 
 
 Video
+Programación en Circunferencia 1
+https://youtube.com/shorts/K5GrxsMpkeY
+Programación en Circunferencia 2
+https://youtube.com/shorts/cDIQht2iEjo
+
 Explicacion del Robot
 https://youtu.be/LaLUpm7sM5g
 
