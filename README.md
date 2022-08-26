@@ -4,9 +4,13 @@ Equipo de Robótica Leviathan
 •	El objetivo de mi robot es ser programado para conducir de forma autónoma ,detectar  los colores con ayuda de los sensores y motores  .
 
 #### Detalles del equipo:
+
 **Nombre del equipo**: LEVIATHAN 1
+
 **País**: Panamá
+
 **Miembros del equipo**: Anthony Vargas, Wilfredo santos.
+
 **Entrenadora**: Keila Chacón
 
 Este repositorio abarca, un reporte detallado del robot LEGO MINDSTORM INVENTOR 51515 que participa en la competencia WRO-FUTUROS INGENIERA en la temporada 2022.
