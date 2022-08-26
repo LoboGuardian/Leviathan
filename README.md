@@ -83,6 +83,7 @@ Luz reflejada
 La luz reflejada mide la cantidad de luz por una superficie sucesor cuando ésta actúa como fuente de luz.
 
 **HuB**
+
 ![image](https://user-images.githubusercontent.com/112026718/186931301-1a0ad68f-c5a6-40b5-ba1e-12b4973ca8df.png)
 
 El HUB es la unidad de control programable a la que pueden conectar los motores y los sensores cuenta con una interfaz intuitiva de luces y de botones que puede funcionar de forma autónoma.    
