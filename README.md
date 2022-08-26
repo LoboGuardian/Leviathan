@@ -32,12 +32,13 @@ Fotos del robot:
 (vi).	Cara inferior
 ![8](https://user-images.githubusercontent.com/112026718/186894949-ecdfdb21-46ed-46e1-bb1f-75fb822e87ea.JPG)
 
-
 ## **Enlace al video en Youtube**:
 Programación en Circunferencia 1
 https://youtube.com/shorts/Gi2d8mX0_0w?feature=share
+
 Programación en Circunferencia 2
 https://youtube.com/shorts/kguWtnAgsCQ?feature=share
+
 Explicacion del Robot
 https://youtu.be/veAIvLrf1H0
 
@@ -52,17 +53,20 @@ Componentes Electromecanicos:
 El Robot se construyo utilizando el kit de robótica de LEGO MINDSTORMS Inventor 51515. Ahora una breve descripción de cada componente electromecanico utilizado para la creación de este robot autónomo.
 
 **Sensor de distancia**
+
 ![image](https://user-images.githubusercontent.com/112026718/186931149-0c934e7d-a09b-47c3-8b9e-018c4d5cca7a.png)
 
 El sensor de distancia puede medir la distancia hasta un objeto o superficie gracias al uso de tecnología ultrasónica además cuenta con una fuente  de  luz alrededor de los ojos.La cual está dividida en cuatro partes que pueden tener individualmente .
 Distancia detectable va de cinco a 200 Centímetros aproximadame.
 
 **Motores**
+
 ![image](https://user-images.githubusercontent.com/112026718/186931201-a2e1a7b2-9a1e-40fa-aedf-056adbae93d2.png)
 
 Los motores están diseñados para funcionar como motores de movimiento y como sensores con el sensor de rotación avanzado que integra el motor que puede modificar la velocidad y la posición en grado.
 
 **Sensor de color**
+
 ![image](https://user-images.githubusercontent.com/112026718/186931242-cf1a4b3f-1395-4366-a045-6669264cfdc5.png)
 
 El sensor puede detectar color ,reflectidao o la luz ambiental también puede estarse como fuente de luz.
