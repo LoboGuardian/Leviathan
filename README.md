@@ -13,7 +13,7 @@ Equipo de Robótica Leviathan
 
 **Entrenadora**: Keila Chacón
 
-Este repositorio abarca, un reporte detallado del robot LEGO MINDSTORM INVENTOR 51515 que participa en la competencia WRO-FUTUROS INGENIERA en la temporada 2022.
+Este repositorio abarca, un reporte detallado del robot LEGO MINDSTORM INVENTOR 51515 que participa en la competencia WRO-FUTUROS INGENIEROS en la temporada 2022.
 
 
 #### Fotos del equipo:
