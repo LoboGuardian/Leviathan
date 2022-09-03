@@ -49,8 +49,7 @@ Programación en Circunferencia 1
 Programación en Circunferencia 2
 https://youtube.com/shorts/kguWtnAgsCQ?feature=share
 
-
-[![Alt text](https://user-images.githubusercontent.com/112026718/188290019-e7f5e6eb-ad6a-44e3-bf15-d8b50fdbb1a4.gif)](https://youtube.com/shorts/Gi2d8mX0_0w?feature=share)
+[![Alt text]()]()
 
 ![evitando obstáculos](https://user-images.githubusercontent.com/112026718/188290022-ac0767ea-0273-4f5d-9196-91c53e89129d.gif)
 
