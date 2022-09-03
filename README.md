@@ -37,14 +37,24 @@ Fotos del robot:
 ![8](https://user-images.githubusercontent.com/112026718/186894949-ecdfdb21-46ed-46e1-bb1f-75fb822e87ea.JPG)
 
 ## **Enlace al video en Youtube**:
+
+Explicacion del robot
+
+[![Alt text](https://user-images.githubusercontent.com/112026718/188290017-ca8b9cd3-9491-43e4-8278-8310ca303299.gif)](https://youtu.be/veAIvLrf1H0)
+
 Programación en Circunferencia 1
-https://youtube.com/shorts/Gi2d8mX0_0w?feature=share
+
+[![Alt text](https://user-images.githubusercontent.com/112026718/188290019-e7f5e6eb-ad6a-44e3-bf15-d8b50fdbb1a4.gif)](https://youtube.com/shorts/Gi2d8mX0_0w?feature=share)
 
 Programación en Circunferencia 2
 https://youtube.com/shorts/kguWtnAgsCQ?feature=share
 
-Explicacion del Robot
-https://youtu.be/veAIvLrf1H0
+
+[![Alt text](https://user-images.githubusercontent.com/112026718/188290019-e7f5e6eb-ad6a-44e3-bf15-d8b50fdbb1a4.gif)](https://youtube.com/shorts/Gi2d8mX0_0w?feature=share)
+
+![evitando obstáculos](https://user-images.githubusercontent.com/112026718/188290022-ac0767ea-0273-4f5d-9196-91c53e89129d.gif)
+
+
 
 ------------
 
