@@ -40,7 +40,7 @@ Fotos del robot:
 
 Explicacion del robot
 
-[![Alt text](https://user-images.githubusercontent.com/112026718/188290017-ca8b9cd3-9491-43e4-8278-8310ca303299.gif)](https://youtu.be/veAIvLrf1H0)
+[![Alt text](https://user-images.githubusercontent.com/112026718/193434284-7d88c749-0d74-40f1-b6a0-7a7f2e20a54b.gif)](https://youtu.be/veAIvLrf1H0)
 
 Programación en Circunferencia
 
