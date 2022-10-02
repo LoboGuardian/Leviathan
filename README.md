@@ -42,12 +42,9 @@ Explicacion del robot
 
 [![Alt text](https://user-images.githubusercontent.com/112026718/188290017-ca8b9cd3-9491-43e4-8278-8310ca303299.gif)](https://youtu.be/veAIvLrf1H0)
 
-Programación en Circunferencia 1
+Programación en Circunferencia
 
-[![Alt text](https://user-images.githubusercontent.com/112026718/188290019-e7f5e6eb-ad6a-44e3-bf15-d8b50fdbb1a4.gif)](https://youtube.com/shorts/Gi2d8mX0_0w?feature=share)
-
-Programación en Circunferencia 2
-https://youtube.com/shorts/kguWtnAgsCQ?feature=share
+[![Alt text](https://user-images.githubusercontent.com/112026718/188290019-e7f5e6eb-ad6a-44e3-bf15-d8b50fdbb1a4.gif)](https://youtu.be/oOIIhMoMuQk)
 
 [![Alt text]()]()
 
