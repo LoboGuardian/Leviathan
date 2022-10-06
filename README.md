@@ -24,17 +24,23 @@ Este repositorio abarca, un reporte detallado del robot LEGO MINDSTORM INVENTOR 
 
 Fotos del robot:
 (i).	Cara frontal
-![3](https://user-images.githubusercontent.com/112026718/193433652-4f7bf7bc-8530-4952-b51f-016982417f32.jpg)
+![3](https://user-images.githubusercontent.com/112026718/194217006-d83ad8ca-591c-4227-b065-61ca95ba4782.jpeg)
+
 (ii).	Cara Posterior
-![4](https://user-images.githubusercontent.com/112026718/193433679-f05d7f9d-13a9-488c-8a31-161b4de6e833.jpg)
+![4](https://user-images.githubusercontent.com/112026718/194217016-d59f33eb-0d5a-452c-99c9-d888ffb95b99.jpeg)
+
 (iii). Cara Izquierda
-![5](https://user-images.githubusercontent.com/112026718/193433686-dae48a18-8615-43d4-a30c-d98b35d07d36.jpg)
+![5](https://user-images.githubusercontent.com/112026718/194217030-be630b9b-5800-43a5-92eb-54eee2af6c9d.jpeg)
+
 (iv).	Cara Derecha
-![6](https://user-images.githubusercontent.com/112026718/193433683-8f361b9c-0c69-444b-b8dd-8c50b51e4207.jpg)
+![6](https://user-images.githubusercontent.com/112026718/194217043-dce1df21-a8c8-45b7-ba18-4cfa84a842b3.jpeg)
+
 (v).	Cara Superior
-![7](https://user-images.githubusercontent.com/112026718/193433690-acce3bfd-8a08-4660-ac83-bada0bc0f424.jpg)
+![7](https://user-images.githubusercontent.com/112026718/194217055-356f63d2-c79b-4ad3-8cf5-4f27422f6fc1.jpeg)
+
 (vi).	Cara inferior
-![8](https://user-images.githubusercontent.com/112026718/193433688-13f5ae62-5aee-4d69-b0aa-71d16b1e40f5.jpg)
+![8](https://user-images.githubusercontent.com/112026718/194217077-96c0423e-48f3-425c-9a56-d4dc7f86e78d.jpeg)
+
 
 ## **Enlace al video en Youtube**:
 
